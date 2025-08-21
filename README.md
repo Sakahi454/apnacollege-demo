@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my git repository.
 <br>
-author-Sakshi Bhadauria
+author-Sakshi thakur
